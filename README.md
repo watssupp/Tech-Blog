@@ -1,6 +1,6 @@
 # Tech-Blog
 ## links
-
+https://tech-bllogg.herokuapp.com/
 
 ## Description
 A mysql database built using Model View Controller (MVC) paradigm. Built using MySQL2, Express, Sequelize, Bulma, Handlebars and dotenv
@@ -20,7 +20,7 @@ A mysql database built using Model View Controller (MVC) paradigm. Built using M
 ## Istructions to run application
 Create an .env file with the following 
 ```
-DB_NAME='ecommerce_db'
+DB_NAME='tech_blog_db'
 DB_USER='root'
 DB_PW='xxx'
 ```
