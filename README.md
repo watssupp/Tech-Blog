@@ -57,5 +57,5 @@ npm start
 <p><a href="https://www.npmjs.com/package/express-session">express-session</a></p>
 <p><a href="https://www.npmjs.com/package/connect-session-sequelize">connect-session-sequalize</a></p>
 <p><a href="https://www.heroku.com/">Heroku</a></p>
----
-Have fun and enjoy!
+
+## Have fun and enjoy!
